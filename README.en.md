@@ -3,19 +3,19 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/epsilon-labs-llc/LevelDice/blob/main/README.en.md) [![ja](https://img.shields.io/badge/lang-ja-blue.svg)](https://github.com/epsilon-labs-llc/LevelDice/blob/main/README.md)
 
 ## Table of Contents
-1. [Overview](##Overview)
-2. [Game Rules](##Game-Rules)
-	2-1. [How to protect yourself](###How-to-protect-yourself) 
-	2-2. [MP Increase/Decrease](###MP-Increase/Decrease)
-	2-3. [Victory condition](###Victory-condition)
-3. [How to Play](##How-to-Play)
-4. [Mode of Distribution](##Mode-of-Distribution)
-5. [Copyrights](##Copyrights)
-6. [Disclaimer](##Disclaimer)
-7. [Terms of Use](##Terms-of-Use)
-8. [Contact Us](##Contact-Us)
-9. [Update History](##Update-History)
-10. [Credit](##Credit) 
+1. [Overview](#Overview)
+2. [Game Rules](#Game-Rules)
+   - [2-1. How to protect yourself](#How-to-protect-yourself)
+   - [2-2. MP Increase/Decrease](#MP-Increase/Decrease)
+   - [2-3. Victory condition](#Victory-condition)
+4. [How to Play](#How-to-Play)
+5. [Mode of Distribution](#Mode-of-Distribution)
+6. [Copyrights](#Copyrights)
+7. [Disclaimer](#Disclaimer)
+8. [Terms of Use](#Terms-of-Use)
+9. [Contact Us](#Contact-Us)
+10. [Update History](#Update-History)
+11. [Credit](#Credit) 
 
 ## Overview
 - Game title : LevelDice
