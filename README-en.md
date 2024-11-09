@@ -7,7 +7,7 @@
 2. [Game Rules](##Game-Rules)
 	2-1. [How to protect yourself](###How-to-protect-yourself) 
 	2-2. [MP Increase/Decrease](###MP-Increase/Decrease)
-	2-3 [Victory condition](###Victory-condition)
+	2-3. [Victory condition](###Victory-condition)
 3. [How to Play](##How-to-Play)
 4. [Mode of Distribution](##Mode-of-Distribution)
 5. [Copyrights](##Copyrights)
@@ -30,7 +30,7 @@
 - Supported OS : Windows, macOS
 - Display language : English
 - Developer : Impulse Tech (Hereinafter referred to as the "Developer")
-- Distributed and Operating : Epsilon Labs, LLC. (Hereinafter referred to as the "Distribution/Operator")
+- Distributed and Operating : [Epsilon Labs, LLC.](https://epsilon-labs.co.jp/) (Hereinafter referred to as the "Distribution/Operator")
 
 ## Game Rules
 1. Players have **HP**, which they use to protect themselves from attacks by increasing their **MP**.
